@@ -1,0 +1,9 @@
+Mise en place du code html entete  (titres, barre de navigation,...)
+
+Mise en page de l'entete
+
+Code du paragraphe (div)
+
+Mise en page paragraphe  (alignement paragraphe,espace,...)
+
+Eléments décoratif, logos, pied de page
