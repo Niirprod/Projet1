@@ -1,0 +1,118 @@
+
+
+#M {
+	border-bottom: 2px solid grey;
+	padding: 2pt 0pt 10pt;
+}
+.Sign {
+	font-size: 13pt;
+	color: purple;
+	background-color: white;
+	border-color: transparent;
+	text-align: center;
+	margin-left: 3pt;
+	padding: 6pt 10pt;
+	position: relative;
+	left: 70%;
+	margin-top: 8pt;
+	
+
+
+}
+
+.Get {
+	font-size: 13pt;
+	color: purple;
+	background-color: white;
+	border-radius: 5pt;
+	border-color: purple;
+	text-align: center;
+	margin-left: 3pt;
+	padding: 8pt 10pt;
+	position: relative;
+	left: 70%;
+
+}
+
+img {
+	padding: 6pt 10pt;
+	width: 45px;
+	height: 45px;
+	position: relative;
+	left: 10%;
+	padding: 8pt 10pt;
+	float: left;
+}
+
+.consumer {
+		color: grey;
+		font-size: 12pt;
+		font-family: arial;
+		display: inline-block;
+		border: 2PX solid green;
+		position: relative;
+		left: 20%;
+		text-align: center;
+		padding: 6pt 10pt;
+		
+		
+
+}
+
+.digital {
+		color: grey;
+		font-size: 12pt;
+		font-family: arial;
+		display: inline-block;
+		border: 2PX solid green;
+		position: relative;
+		left: 20%;
+		text-align: center;
+		margin-left: 3pt;
+		padding: 6pt 10pt;
+			
+
+}
+
+.industry {
+		color: grey;
+    	font-size:12;
+    	font-family: arial;
+    	display: inline-block;
+    	border: 2PX transparent;
+    	position: relative;
+    	left: 20%;
+    	text-align: center;
+    	margin-left: 3pt;
+    	padding: 6pt 10pt;
+
+}
+
+.science {
+		color: grey;
+    	font-size: 12pt;
+    	font-family: arial;
+    	display: inline-block;
+    	border: 2PX transparent;
+    	position: relative;
+    	left: 20%;
+    	text-align: center;
+    	margin-left: 3pt;
+		padding: 6pt 10pt;
+
+}
+
+.about {
+		color: grey;
+    	font-size: 12pt;
+    	font-family: arial;
+    	display: inline-block;
+    	border: 2PX transparent;
+    	position: relative;
+    	left: 20%;
+    	text-align: center;
+    	margin-left: 3pt;
+		padding: 6pt 10pt;
+
+}
+
