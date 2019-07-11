@@ -12,7 +12,7 @@
 	width: 40px;
 	height: 40px;
 	position: relative;
-	left: 20%;
+	left: 16%;
 	padding: 8pt 10pt;
 	float: left;
 }
@@ -26,10 +26,9 @@
 	margin-left: 3pt;
 	padding: 8pt 8pt;
 	position: relative;
-	left: 65%;
+	left: 70%;
 	margin-top: 6pt;
 	margin-bottom: 6pt;
-	
 
 
 }
@@ -37,24 +36,24 @@
 .Get {
 	font-size: 12pt;
 	color: purple;
-	background-color: white;
+	background-color: transparent;
 	border-radius: 5pt;
 	border-color: purple;
 	text-align: center;
 	margin-left: 3pt;
 	padding: 8pt 8pt;
 	position: relative;
-	left: 65%;
+	left: 70%;
 	margin-top: 6pt;
 	margin-bottom: 6pt;
 
 }
 
 
-
 #navigation {
 	box-shadow: 0px 1px 8px #aaa;
 	padding: 4pt 0pt 0pt; 
+	margin-bottom: 25pt;
 }
 
 #one {
@@ -62,8 +61,7 @@
 	width: 140px;
 	height: 40px;
 	position: absolute;
-	margin-left: 20%;
-	
+	margin-left: 16%;
 	
 
 }
@@ -75,18 +73,84 @@
 		display: inline-block;
 		border: 2PX solid transparent;
 		position: relative;
-		left: 21%;
+		left: 20%;
 		text-align: center;
 		padding: 4pt 10pt;
-		
-		
+			
 
 }
 
+h1 {
+	position: relative;
+	left: 29%;
+	margin-bottom: 5pt;
+
+
+	}
+
+h2 {
+	position: relative;
+	left: 29%;
+	margin-bottom: 15pt;
+}
 
 
 #harry {
 
 	border-radius: 400pt;
-	height: 80pt;
+	height: 60pt;
+	position: relative;
+	left: 29%;
+}
+
+.gui {
+	font-size: 13pt;
+
+	position:absolute;
+	top:35%;
+	left:35%;
+
+}
+
+.jul {
+	font-size: 13pt;
+	color: #aaa;
+	position:absolute;
+	top: 38%;
+	left:35%;
+}
+
+
+
+#f {
+	position: absolute;
+	top: 35%;
+	left: 42%;
+	color: purple;
+	background-color: transparent;
+	border-radius: 5pt;
+	border-color: purple;
+	text-align: center;
+	padding: 1pt 10pt 1pt 10pt;
+
+}
+
+#paradise {
+		height: 850px;
+		margin-left: 15%;
+		margin-right: 15%;
+		margin-top: 40pt;
+}
+.credit {
+	text-align: center;
+}
+
+.ze {
+
+
+}
+
+.fo {
+
+	
 }
