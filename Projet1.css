@@ -1,118 +1,92 @@
-
-
-#M {
-	border-bottom: 2px solid grey;
+*{
+	margin: 0;
+	padding: 0;
+}
+#E {
+	border-bottom: 1px solid grey;
 	padding: 2pt 0pt 10pt;
 }
+
+.M {
+	padding: 6pt 10pt;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	left: 20%;
+	padding: 8pt 10pt;
+	float: left;
+}
+
 .Sign {
-	font-size: 13pt;
+	font-size: 12pt;
 	color: purple;
 	background-color: white;
 	border-color: transparent;
 	text-align: center;
 	margin-left: 3pt;
-	padding: 6pt 10pt;
+	padding: 8pt 8pt;
 	position: relative;
-	left: 70%;
-	margin-top: 8pt;
+	left: 65%;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
 	
 
 
 }
 
 .Get {
-	font-size: 13pt;
+	font-size: 12pt;
 	color: purple;
 	background-color: white;
 	border-radius: 5pt;
 	border-color: purple;
 	text-align: center;
 	margin-left: 3pt;
-	padding: 8pt 10pt;
+	padding: 8pt 8pt;
 	position: relative;
-	left: 70%;
+	left: 65%;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
 
 }
 
-img {
-	padding: 6pt 10pt;
-	width: 45px;
-	height: 45px;
-	position: relative;
-	left: 10%;
-	padding: 8pt 10pt;
-	float: left;
+
+
+#navigation {
+	box-shadow: 0px 1px 8px #aaa;
+	padding: 4pt 0pt 0pt; 
+}
+
+#one {
+	
+	width: 140px;
+	height: 40px;
+	position: absolute;
+	margin-left: 20%;
+	
+	
+
 }
 
 .consumer {
 		color: grey;
-		font-size: 12pt;
+		font-size: 11pt;
 		font-family: arial;
 		display: inline-block;
-		border: 2PX solid green;
+		border: 2PX solid transparent;
 		position: relative;
-		left: 20%;
+		left: 21%;
 		text-align: center;
-		padding: 6pt 10pt;
+		padding: 4pt 10pt;
 		
 		
 
 }
 
-.digital {
-		color: grey;
-		font-size: 12pt;
-		font-family: arial;
-		display: inline-block;
-		border: 2PX solid green;
-		position: relative;
-		left: 20%;
-		text-align: center;
-		margin-left: 3pt;
-		padding: 6pt 10pt;
-			
 
+
+#harry {
+
+	border-radius: 400pt;
+	height: 80pt;
 }
-
-.industry {
-		color: grey;
-    	font-size:12;
-    	font-family: arial;
-    	display: inline-block;
-    	border: 2PX transparent;
-    	position: relative;
-    	left: 20%;
-    	text-align: center;
-    	margin-left: 3pt;
-    	padding: 6pt 10pt;
-
-}
-
-.science {
-		color: grey;
-    	font-size: 12pt;
-    	font-family: arial;
-    	display: inline-block;
-    	border: 2PX transparent;
-    	position: relative;
-    	left: 20%;
-    	text-align: center;
-    	margin-left: 3pt;
-		padding: 6pt 10pt;
-
-}
-
-.about {
-		color: grey;
-    	font-size: 12pt;
-    	font-family: arial;
-    	display: inline-block;
-    	border: 2PX transparent;
-    	position: relative;
-    	left: 20%;
-    	text-align: center;
-    	margin-left: 3pt;
-		padding: 6pt 10pt;
-
-}
-
