@@ -136,21 +136,81 @@ h2 {
 }
 
 #paradise {
+		display: block;
 		height: 850px;
-		margin-left: 15%;
-		margin-right: 15%;
+		margin: auto;
 		margin-top: 40pt;
 }
 .credit {
 	text-align: center;
+	margin-top: 10pt;
+	margin-bottom: 50pt;
 }
+
+#exp {
+	font-family: 'Crimson Text', serif;
+	margin: auto;
+	width: 600pt;
+	font-size: 20pt;
+}
+
+h3 {
+	font-size: 20pt;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 5pt;
+	margin-bottom: 5pt;
+}
+
+#exp p {
+	margin-bottom: 25pt;
+}
+
+.y {
+	float: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 60pt;
+	color: white;
+	border-radius: 1px solid transparent;
+	background-color: black;
+	border-radius: 50%;
+	padding: 10pt 25pt 10pt 25pt;
+	margin-right: 15pt;
+}
+
+a {
+	color: black;
+}
+
+.cit {
+	display: block;
+	margin: auto;
+	font-style: italic;
+	width: 85%;
+}
+
+.Gonan {
+	font-weight: bold;
+}
+
+.zefo {
+	position: absolute;
+	top: 160%;
+	left: 10%;
+}
+
 
 .ze {
 
 
+
+}
+
+.th {
+	width: 100pt;
+	font-size: 12pt;
 }
 
 .fo {
 
-	
+
 }
