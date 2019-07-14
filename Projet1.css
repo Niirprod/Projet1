@@ -373,5 +373,26 @@ a {
 	margin-left: 3pt;
 	padding: 6pt 12pt;
 
-
 }
+
+section {
+		margin-top: 150pt;
+}
+
+
+#foot {
+	margin-left: 10pt;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	
+	
+	
+	
+	
+}
+
+.amali {
+	height: 90pt;
+	
+	}
