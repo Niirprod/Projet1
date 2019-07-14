@@ -20,7 +20,7 @@
 .Sign {
 	font-size: 12pt;
 	color: purple;
-	background-color: white;
+	background-color: transparent;
 	border-color: transparent;
 	text-align: center;
 	margin-left: 3pt;
@@ -194,12 +194,16 @@ a {
 
 .zefo {
 	position: absolute;
-	top: 160%;
-	left: 10%;
+	top: 150%;
+	left: 15%;
+	border-bottom: 1px solid grey;
+
 }
 
 
 .ze {
+	height: 23px;
+	margin-bottom: 5pt;
 
 
 
@@ -208,9 +212,166 @@ a {
 .th {
 	width: 100pt;
 	font-size: 12pt;
+	margin-bottom: 15pt;
 }
 
 .fo {
+	color: purple;
+	background-color: transparent;
+	border-radius: 5pt;
+	border-color: purple;
+	text-align: center;
+	padding: 5pt 12pt 5pt 12pt;
+	margin-bottom: 25pt;
+
+
+}
+
+.cl {
+	position: absolute;
+	top: 175%;
+	left: 14%;
+
+}
+.ap{
+	position: absolute;
+	top: 5%;
+	left: 75%;
+	padding: 5pt 12pt 5pt 12pt;
+
+}
+.cbtf {
+	width: 25px;
+	padding: 5pt 12pt 5pt 12pt;
+	display: flex;
+	flex-direction: column;
+}
+
+.travel{
+
+}
+
+.digi {
+	color: black;
+	font-size: 12pt;
+	display: inline-block;
+	background-color: #aaa;
+	border: 1PX solid transparent;
+	border-radius: 5%;
+	position: relative;
+	left: 28%;
+	text-align: center;
+	padding: 5pt 12pt;
+	margin-top: 30pt;
+	margin-bottom: 35pt;
+
+
+
+}
+
+.travel {
+
+	border-bottom: 1px solid grey;
+	
+	
+}
+
+.p1 {
+
+	margin-top: 10pt;
+
+}
+
+#harry2 {
+	border-radius: 50%;
+	height: 45pt;
+	position: relative;
+	left: 28%;
+}
+
+#hg {
+	font-size: 14pt;
+	position: absolute;
+	left: 32%;
+	bottom: -681%;
+	
+
+}
+
+#mm {
+	margin-top: 10pt;
+	width: 9%;
+	color: grey;
+	position: absolute;
+	left: 32%;
+	bottom: -686%;
+
+}
+
+#tesco {
+	width: 5%;
+	position: absolute;
+	left: 32%;
+	bottom: -693%;
+
+}
+
+.fol1 {
+	position: absolute;
+	left: 43%;
+	bottom: -683%;
+	font-size: 12pt;
+	color: purple;
+	background-color: transparent;
+	border-radius: 5pt;
+	border-color: purple;
+	text-align: center;
+	margin-left: 3pt;
+	padding: 6pt 12pt;
+
+}
+
+#oz {
+
+	height: 45pt;
+	border-radius: 5%;
+	position: absolute;
+	left: 51%;
+	bottom: -685%;
+
+}
+
+#onez {
+
+	height: 18pt;
+	position: absolute;
+	left: 55%;
+	bottom: -681%;
+
+}
+
+
+.thf {
+	width: 9%;
+	font-size: 13pt;
+	position: absolute;
+	left: 55%;
+	bottom: -691%;
+
+}
+
+.fol2 {
+	position: absolute;
+	left: 68%;
+	bottom: -683%;
+	font-size: 12pt;
+	color: purple;
+	background-color: transparent;
+	border-radius: 5pt;
+	border-color: purple;
+	text-align: center;
+	margin-left: 3pt;
+	padding: 6pt 12pt;
 
 
 }
